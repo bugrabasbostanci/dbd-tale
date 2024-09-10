@@ -18,3 +18,4 @@
 - The Thopmson House (Coldwind Farm)
 - Ormond (Ormond)
 - Badham Preschool (Springwood)
+- test map
