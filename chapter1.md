@@ -1,0 +1,4 @@
+## Chapter 1
+
+    Meg o gece de rutin koşularından birine çıktı. Klasik rotasına doğru ilerleken annesiyle yaşadığı tartışmayı düşünüyordu. Babasının onları terketmesinde annesinin ne gibi bir
+suçu olabilirdi ki? Ona kendisini suçlamayı bırakmasını söylemesinin tartışmaya sebep olması aklına hiç yatmıyordu. Bu düşüncelerden sıyrılmayı umarak o gece farklı bir rotada koşu yapmaya karar verdi. Ayakları onu lisedeyken antrenman yapmak için seçtiği rotaya götürdü. Lise zamanlarındayken çok işlek bir rotaydı ancak koşu rotasının etrafını saran ormanlık arazide yaşanan kaybolma vakalarından sonra artık hiçkimse o rotayı kullanmıyordu. Rota kullanılmadığı için koşu yolunu yabani otlar kaplamıştı ve bölge bakımsız kaldığından dolayı ışıklandırma sistemi yarım yamalak çalışıyordu. Meg'in o yolda koşmasına engel bir sürü etken varken onun aklında sadece bu rota vardı, sanki bir güç onu o rotaya çekiyordu.
