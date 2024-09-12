@@ -1,8 +1,8 @@
 ## ROADMAP
-- Chapter 1 - A karakterinin hikayesi (bir güç karakterleri çekti) (**NEA**)
-- Chapter 2 - B karakterinin hikayesi (**MEG**)
+- Chapter 1 - A karakterinin hikayesi (bir güç karakterleri çekti) (**MEG**)
+- Chapter 2 - B karakterinin hikayesi (**ZARINA**)
 - Chapter 3 - C karakterinin hikayesi (**ACE**)
-- Chapter 4 - D karakterinin hikayesi (**FENG**)
+- Chapter 4 - D karakterinin hikayesi (**JAKE**)
 - Chapter 5 - ==Kamp ateşi== sohbeti/tanışma(o güce entity denildi)
 - Chapter 6 - Katilin hikayesi ve katilin survivorlarla tanışması/karşılaşması (**DREDGE**)
 - Chapter 7 - *Entity* herkesi maça summonlar ve oyun başlar (early game)
@@ -18,4 +18,3 @@
 - The Thopmson House (Coldwind Farm)
 - Ormond (Ormond)
 - Badham Preschool (Springwood)
-- test map
