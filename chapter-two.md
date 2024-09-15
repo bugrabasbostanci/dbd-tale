@@ -1,4 +1,4 @@
-# Chapter Two — Zarina Kassir
+# Chapter Two — Zarina Kassir: Karanlığın Zincirleri
 
 ---
 
