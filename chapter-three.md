@@ -1,10 +1,6 @@
-<<<<<<< HEAD
 # Jake Park: Krallığın Sürgünü
 
 Sam Park, dünyanın en zengin CEO'larından biriydi. Böyle bir babanın oğlu olmak, Jake üzerinde sürekli bir baskı yaratıyordu. Kardeşinin eğitimdeki başarıları da bu baskıyı daha da artırıyordu. Kardeşi Yale Üniversitesi’nden onur derecesiyle mezun olduğunda, Jake’in omuzlarındaki yük iyice ağırlaşmıştı.
-=======
-Sam Park, dünyanın en zengin CEO'larından biriydi. Böyle bir babanın oğlu olmak, **Jake** üzerinde sürekli bir baskı yaratıyordu. Kardeşinin eğitimdeki başarıları da bu baskıyı daha da artırıyordu. Kardeşi Yale Üniversitesi’nden onur derecesiyle mezun olduğunda, Jake’in omuzlarındaki yük iyice ağırlaşmıştı.
->>>>>>> parent of 9bc59fd (chapter three finished)
 
 Jake aslında başarısız bir öğrenci değildi, sadece akademik alanda kendini bulamamıştı. Bunu okula başladığı ilk günden itibaren biliyordu. Babası, Jake’i eğitim konusunda sürekli zorlamış ve ona sunduğu pahalı imkanları değerlendirmesini istemişti. Ancak Jake, bu yolu hiç düşünmemişti. Babası, onun da annesi ve kardeşi gibi başarılı bir kariyer yapmasını istiyordu, ama Jake, ailesi gibi bir hayat istemediğini çoktan fark etmişti.
 
